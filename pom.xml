@@ -82,7 +82,7 @@
             <artifactId>langchain4j-azure-open-ai</artifactId>
             <version>${langchain4j.version}</version>
         </dependency>
-        <!-- If you need the core module as well: -->
+        <!-- langchain4j core module: -->
         <dependency>
             <groupId>dev.langchain4j</groupId>
             <artifactId>langchain4j-core</artifactId>
