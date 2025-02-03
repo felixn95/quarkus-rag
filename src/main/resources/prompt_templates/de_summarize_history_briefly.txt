@@ -1,0 +1,1 @@
+Bitte fasse die folgende Konversation sinvoll zusammen: {historySummary}

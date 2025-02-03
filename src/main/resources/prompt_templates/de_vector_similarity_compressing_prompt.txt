@@ -1,0 +1,9 @@
+Basierend auf der Zusammenfassung der bisherigen Unterhaltung und der aktuellen Anfrage, erstelle eine verfeinerte Suchanfrage, die die Absicht des Nutzers für eine effektive Vektorsuche widerspiegelt.
+
+Zusammenfassung der Unterhaltung:
+{historySummary}
+
+Aktuelle Anfrage:
+{currentQuery}
+
+Verfeinerte Suchanfrage:

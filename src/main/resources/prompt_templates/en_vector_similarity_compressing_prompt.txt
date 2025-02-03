@@ -1,0 +1,9 @@
+Based on the conversation history summary and the current query, create a refined search query that captures the user's intent for an effective vector search.
+
+Conversation History Summary:
+{historySummary}
+
+Current Query:
+{currentQuery}
+
+Refined Search Query:
